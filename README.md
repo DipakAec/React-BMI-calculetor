@@ -25,7 +25,22 @@ A simple and responsive **BMI (Body Mass Index) Calculator** built with **React*
 - **GitHub Pages** – Deployment platform  
 
 ---
+## 🤝 Contribution
 
+Contributions are welcome!  
+If you'd like to enhance the app, fix bugs, or suggest features, feel free to:
+
+- Fork the repository
+- Create a new branch
+- Commit your changes
+- Open a pull request
+
+You can also open an issue for any feedback or suggestions.
+## ✉️ Contact
+
+Created by **DipakAec**  
+📫 Email: **pauldipakkr@gmail.com**
+---
 
 ## 🔧 Installation
 
@@ -50,19 +65,4 @@ npm start
 
 
 
-## 🤝 Contribution
 
-Contributions are welcome!  
-If you'd like to enhance the app, fix bugs, or suggest features, feel free to:
-
-- Fork the repository
-- Create a new branch
-- Commit your changes
-- Open a pull request
-
-You can also open an issue for any feedback or suggestions.
-## ✉️ Contact
-
-Created by **DipakAec**  
-📫 Email: **pauldipakkr@gmail.com**
----
